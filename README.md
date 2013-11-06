@@ -6,11 +6,13 @@
 1 - HTML 101
 2 - div tags
 3 - CSS
+4 - CSS - 2
 
 Ideas for future days:
   * Forms - http://www.w3schools.com/html/html_forms.asp
   * Javascript - http://www.w3schools.com/html/html_scripts.asp
   * HTML5
+  * CSS3
 Javascript Libraries
   * jquery - http://jquery.com/
 UI Libraries

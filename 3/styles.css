@@ -1,0 +1,34 @@
+/* day3 */
+@charset "UTF-8";
+
+#wrapper{
+    width:900px;
+    margin:0px auto;
+}
+
+header{
+    height:50px;
+    background-color:grey;
+}
+
+nav{
+    height:20px;
+    background-color:lightblue;
+}
+article{
+    width:600px;
+    float:left;
+    background-color:lightgreen;
+}
+aside{
+    width:300px;
+    float:left;
+    background-color:lightyellow;
+}
+footer{
+    clear:both;
+    height:20px;
+    background-color:orange;
+}
+
+
