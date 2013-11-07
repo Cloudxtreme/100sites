@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* Day4 */
+
+#wrapper{
+    width:900px;
+    margin:0px auto;
+}
+header{ 
+    height: 40px;
+    background-color:orange;
+}
+footer{
+    clear:both;
+    background-color:lightblue;
+}
