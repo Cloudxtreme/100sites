@@ -1,7 +1,8 @@
 100sites
 ========
-##100 Web Sites. 1 per day.
+####100 Web Sites. 1 per day.
 
+### Days
 1. HTML 101
 2. div tags
 3. CSS
