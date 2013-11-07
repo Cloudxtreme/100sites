@@ -17,7 +17,7 @@ Ideas for future days:
 Javascript Libraries
   * jquery - http://jquery.com/
 
-## Bootstrap (Frontend Frameworks)
+### Bootstrap (Frontend Frameworks)
 * Twitter bootstrap - http://getbootstrap.com/
 * http://html5boilerplate.com/
 * http://www.getskeleton.com/
